@@ -6,7 +6,7 @@ Link: https://arxiv.org/abs/1810.08462
 Link: https://rcdaudt.github.io/oscd/  
 You cna download the dataset (images and labels) from this link.
 
-##usage
+## usage
 ### making dataset
 python make_dataset.py
 ### train
